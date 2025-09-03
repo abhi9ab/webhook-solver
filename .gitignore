@@ -1,0 +1,41 @@
+target/
+*.log
+.DS_Store
+*.iml
+.idea/
+.vscode/
+
+# Additional recommended entries for Java/Maven projects
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Spring Boot
+application-*.properties
+application-*.yml
+
+# OS generated files
+Thumbs.db
+.DS_Store?
+._*
+
+# IDE
+.settings/
+.project
+.classpath
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log.*
