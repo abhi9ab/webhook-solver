@@ -84,4 +84,3 @@ src/main/java/com/example/webhooksolver/
 
 ---
 
-*Built with ❤️ using Spring Boot*
